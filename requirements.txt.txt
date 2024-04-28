@@ -1,0 +1,4 @@
+chromadb
+pandas
+tensorflow
+sentence_transformers
