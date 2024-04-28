@@ -2,4 +2,4 @@ chromadb
 pandas
 tensorflow
 sentence_transformers
-sqlite3>3.35.0
+sqlite3
